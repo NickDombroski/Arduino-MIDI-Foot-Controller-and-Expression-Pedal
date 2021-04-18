@@ -16,7 +16,7 @@ This project can be very adaptable to your specific needs, so some of these part
 * (Optional) 6x LEDs
 * (Optional) 6x 220 ohm resistors
 
-Plus, of course, all the usual suspects in Arduino projects. Power source, breadboard, hookup wire, sodering equipment, a drill, and an enclosure. I just used a spray painted cake pan and used a power drill to create holes which worked surprisingly well (most switches and jacks come with washers which allows them to easily be affixed to the drilled holes). As you can tell, I'm just using a MIDI cable. While MIDI-to-USB is convenient, this isn't possible on a stand-alone Arduino Uno, and it keeps things pretty simple. 
+Plus, of course, all the usual suspects in Arduino projects. Power source, breadboard, hookup wire, soldering equipment, a drill, and an enclosure. I just used a spray painted cake pan and used a power drill to create holes which worked surprisingly well (most switches and jacks come with washers which allows them to easily be affixed to the drilled holes). As you can tell, I'm just using a MIDI cable. While MIDI-to-USB is convenient, this isn't possible on a stand-alone Arduino Uno, and it keeps things pretty simple. 
 
 # Construction
 *Please excuse this absolute mess of wires, I am no electrical engineer*
